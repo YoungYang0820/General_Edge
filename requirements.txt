@@ -1,2 +1,2 @@
-PyYAML==3.13
+PyYAML==5.1
 boto3==1.9.33
